@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AndroidSMS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AndroidSMS_jar</output-path>
+    <root id="archive" name="AndroidSMS.jar">
+      <element id="module-output" name="AndroidSMS" />
+    </root>
+  </artifact>
+</component>
